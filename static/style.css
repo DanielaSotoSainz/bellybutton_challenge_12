@@ -1,0 +1,49 @@
+.jumbotron {
+    border: 3px solid #0A1172;
+	background-image: url("bacteria.jpg");
+	background-size: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;   
+    color: white;
+}
+
+.jumbotron > h1 {
+    text-shadow: 1px 1px 2px black;
+}
+
+.jumbotron > p {
+    text-shadow: 1px 1px 2px black;
+}
+
+.panel-primary > .panel-heading {
+    background: #0A1172; color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.panel-primary > .panel-body {
+    background: white ; color: #0A1172;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.well > h5 {
+    background: #0A1172 ; color: white;
+    text-align: center;
+}
+
+.col-md-2 > .well {
+    background: #0A1172 ;
+    text-align: center;
+}
+
+.col-md-5 > .well {
+    background: #0A1172 ;
+    text-align: center;
+}
